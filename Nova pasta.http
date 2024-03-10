@@ -1,0 +1,6 @@
+@Nova_pasta_HostAddress = http://localhost:5117
+
+GET {{Nova_pasta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

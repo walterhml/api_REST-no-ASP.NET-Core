@@ -1,0 +1,33 @@
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\appsettings.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.Nova pasta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.build.Nova pasta.props
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nova pasta.props
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nova pasta.props
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\scopedcss\bundle\Nova pasta.styles.css
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.Up2Date
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
+C:\Users\wszin\OneDrive\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.sourcelink.json
